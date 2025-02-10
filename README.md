@@ -58,6 +58,14 @@ Here’s how I’ve used data to **create real-world impact**:
 
 ---
 
+
+## 👀 **Profile Visitors**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubh9mehta&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
 ## 📫 **Let’s Connect!**
 📧 **Email:** shubh9mehta@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/shubh9mehta](https://www.linkedin.com/in/shubh9mehta/)  
