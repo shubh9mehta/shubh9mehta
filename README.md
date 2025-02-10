@@ -52,8 +52,14 @@ Here’s how I’ve used data to **create real-world impact**:
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh9mehta&show_icons=true&theme=dark" width="50%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh9mehta&theme=dark" width="50%">
+</p>
+
+---
+
+## 👀 **Profile Visitors**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubh9mehta&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
