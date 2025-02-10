@@ -37,8 +37,6 @@ Here’s how I’ve used data to **create real-world impact**:
 🛠️ **Ensured AI compliance & governance in high-security environments**  
 🔧 **Tech Stack:** Python, NLP, Azure, PostgreSQL  
 
-📌 **More Projects** → [Check my GitHub Repositories](https://github.com/shubh9mehta)  
-
 ---
 
 ## 🛠️ **Tech Stack & Tools**
@@ -68,7 +66,6 @@ Here’s how I’ve used data to **create real-world impact**:
 
 ## 📫 **Let’s Connect!**
 📧 **Email:** shubh9mehta@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/shubh9mehta](https://www.linkedin.com/in/shubh9mehta/)  
-💻 **GitHub:** [github.com/shubh9mehta](https://github.com/shubh9mehta)  
+🔗 **LinkedIn:** [linkedin.com/in/shubh9mehta](https://www.linkedin.com/in/shubh9mehta/)   
 
 ⚡ **Fun Fact:** I don’t just write SQL queries—I optimize them like a Formula 1 pit crew! 🏎️  
