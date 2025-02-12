@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! I’m Shubh Mehta 👋</h1>
 
-<p align="center">🚀 <strong>Data Science Graduate Student | Data Enthusiast | Cloud Explorer</strong> 🎯</p>
-<p align="center">🎓 MS in Data Science @ Indiana University | 📍 Bloomington, IN</p>
-<p align="center">📅 Graduating May 2025 | Seeking full-time roles in Data Engineering & Analytics</p>
+<p align="center">🚀 **Data Science Graduate Student** | Data Enthusiast | Cloud Explorer 🎯</p>
+<p align="center">🎓 **MS in Data Science @ Indiana University** | 📍 Bloomington, IN</p>
+<p align="center">📅 Graduating May 2025 | **Seeking full-time roles in Data Engineering & Analytics** </p>
 
 
 ---
