@@ -32,7 +32,7 @@ Here’s how I’ve used data to **create real-world impact**:
 🤖 **Built an LLM-powered knowledge base** to automate institutional workflows and ensure AI compliance.  
 🔧 **Tech Stack:** Python, NLP, Azure, PostgreSQL  
 
-📌 **More Projects** → [Check my GitHub Repositories](https://github.com/shubh9mehta)  
+
 
 ---
 
@@ -64,4 +64,4 @@ Here’s how I’ve used data to **create real-world impact**:
 📧 **Email:** shubh9mehta@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/shubh9mehta](https://www.linkedin.com/in/shubh9mehta/)  
 
-⚡ **Fun Fact:** I don’t just write SQL queries—I optimize them like a **Formula 1 pit crew!** 🏎️  
+⚡ **Fun Fact:** I firmly believe that pizza tastes better at 2 AM, especially when paired with terrible movie marathons. 🍕  
