@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Data Analyst</strong> with a knack for turning data headaches into high-fives.<br>
-  MS in Data Science at Indiana University Bloomington. 📍 Bloomington, IN.<br>
+  MS in Data Science at Indiana University Bloomington. 📍 Irving, TX.<br>
   Hunting for full-time Data Analyst or Business Intelligence gigs.
 </p>
 
