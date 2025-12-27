@@ -51,15 +51,6 @@ Power BI, Tableau, Looker Studio, Excel (Power Query, PivotTables), Plotly, Matp
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh9mehta&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh9mehta&theme=radical" width="48%">
-</p>
-
----
-
 ### Let's chat: I could be the data wizard your team needs.
 
 📧 **Email:** shubh9mehta@gmail.com  
